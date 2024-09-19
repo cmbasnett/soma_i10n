@@ -1,0 +1,61 @@
+# AngelCode Bitmap Font Generator configuration file
+fileVersion=1
+
+# font settings
+fontName=Noto Sans JP
+fontFile=
+charSet=0
+fontSize=72
+aa=1
+scaleH=100
+useSmoothing=1
+isBold=0
+isItalic=0
+useUnicode=1
+disableBoxChars=1
+outputInvalidCharGlyph=0
+dontIncludeKerningPairs=0
+useHinting=1
+renderFromOutline=0
+useClearType=1
+autoFitNumPages=0
+autoFitFontSizeMin=0
+autoFitFontSizeMax=0
+
+# character alignment
+paddingDown=1
+paddingUp=1
+paddingRight=1
+paddingLeft=1
+spacingHoriz=1
+spacingVert=1
+useFixedHeight=0
+forceZero=0
+widthPaddingFactor=0.00
+
+# output file
+outWidth=2048
+outHeight=2048
+outBitDepth=32
+fontDescFormat=1
+fourChnlPacked=0
+textureFormat=dds
+textureCompression=3
+alphaChnl=1
+redChnl=4
+greenChnl=4
+blueChnl=4
+invA=0
+invR=0
+invG=0
+invB=0
+
+# outline
+outlineThickness=0
+
+# selected chars
+# chars=32-126,160-259,272-275,282-283,296-299,323-324,327-328,332-335,338-339,360-365,402,416-417,431-432
+# chars=461-476,504-505,7742-7743,7840-7929,8194-8195,8208-8214,8216-8218,8220-8222,8224-8226,8229-8231
+# chars=8240,8242-8243,8245,8249-8252,8258,8263-8265,8273,12353-12438,12441-12543,26085,26412,35486
+
+# imported icon images

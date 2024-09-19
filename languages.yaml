@@ -1,0 +1,12 @@
+languages:
+  - name: japanese
+    charsets: [ascii]
+    fonts:
+      - noto_sans_jp_additive_72
+    lang_files:
+      - config/base_japanese.lang
+      #- config/lang_main/japanese.lang
+charsets:
+  - name: ascii
+    characters:
+        - [0x20, 0x7E]
